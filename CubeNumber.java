@@ -1,4 +1,4 @@
-// Write a Java program  to display the cube of the number up to given  integer.
+//  Program  to display the cube of the number up to given  integer.
 package com.test;
 
 import java.util.*;
