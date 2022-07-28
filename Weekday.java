@@ -1,9 +1,11 @@
+// write a program to print weekday between 1-7.
+
 package com.test;
 
 import java.util.Scanner;
 public class Weekday{
     public static void main(String[] args) {
-        try (Scanner scanner = new Scanner(System.in)) {
+         Scanner scanner = new Scanner(System.in);
 			System.out.println("Enter weekday number : ");
 			int weekday = scanner.nextInt();
 
@@ -41,4 +43,4 @@ public class Weekday{
 			}
 		}
     }
-}
+
