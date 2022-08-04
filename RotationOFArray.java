@@ -38,7 +38,7 @@ public class RotationOFArray {
 		Scanner scn = new Scanner(System.in);
 		System.out.println("Input the size of array");
 		int n = scn.nextInt();
-		System.out.println("Input the original array ");
+		System.out.println("Input the value in original array ");
 		int[] a = new int[n];
 		for (int i = 0; i < n; i++) {
 			a[i] = scn.nextInt();
